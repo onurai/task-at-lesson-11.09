@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\bin\Debug\netcoreapp3.1\task at lesson 11.09.exe
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\bin\Debug\netcoreapp3.1\task at lesson 11.09.deps.json
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\bin\Debug\netcoreapp3.1\task at lesson 11.09.runtimeconfig.json
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\bin\Debug\netcoreapp3.1\task at lesson 11.09.runtimeconfig.dev.json
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\bin\Debug\netcoreapp3.1\task at lesson 11.09.dll
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\bin\Debug\netcoreapp3.1\task at lesson 11.09.pdb
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.AssemblyInfo.cs
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.dll
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.pdb
+C:\Users\HP\source\repos\task at lesson 11.09\task at lesson 11.09\obj\Debug\netcoreapp3.1\task at lesson 11.09.genruntimeconfig.cache
